@@ -1,0 +1,23 @@
+{
+  "name": "tana-json-to-markdown",
+  "version": "1.0.0",
+  "description": "Convert a JSON export from Tana into plain text",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-matcha/tana-json-to-markdown"
+  },
+  "author": "Milo Sanders - Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-matcha/tana-json-to-markdown/issues"
+  },
+  "homepage": "https://github.com/git-matcha/tana-json-to-markdown#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.3",
+    "typescript": "^5.4.3"
+  }
+}

@@ -1,1 +1,4 @@
-tana-export/*
+tana-export/
+dist/
+.git/
+node_modules/
